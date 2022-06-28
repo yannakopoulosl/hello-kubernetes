@@ -26,7 +26,7 @@ func TestGreet(t *testing.T) {
 		want string
 	}{
 		{
-			arg:  "Brian",
+			arg:  "Autobots-4",
 			want: "Hello Brian!",
 		}, {
 			arg:  "Mary",
